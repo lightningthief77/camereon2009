@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 - 👋 Hi, I’m @camereon2009
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML and CSS
