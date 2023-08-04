@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Github%20-%20%40camereon2009%20-%20light%20green)
+![Static Badge](https://img.shields.io/badge/Github%20-%20%40camereon2009%20-%20light%20green?link=https%3A%2F%2Fgithub.com%2Fcamereon2009%2Fcamereon2009)
 
 - 👋 Hi, I’m @camereon2009
 - 👀 I’m interested in Web Development
