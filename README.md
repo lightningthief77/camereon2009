@@ -5,7 +5,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40camereon2009-239a3b.svg)](https://github.com/camereon2009)
 
-Hi, I am @camereon2009. I am interested in Web Development and are currently learning HTML and CSS. Grew up in 🇨🇦, live in the Pacific Northwest of the 🇺🇸. I am also tech savvy. I would love to turn that GitHub contribution graph ⬇️ more green 🟩 in my spare time.
+Hi, I am @camereon2009. I am interested in Web Development and are currently learning HTML and CSS. Grew up in 🇨🇦. I am also tech savvy. I would love to turn that GitHub contribution graph ⬇️ more green 🟩 in my spare time.
 
 ## 🛠️ Skills
 
