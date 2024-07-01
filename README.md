@@ -25,17 +25,6 @@ Hi, I am **@**lightningthief77. I am interested in Web Development and are curre
 ![apple](https://img.shields.io/badge/MacOS_Ventura-0078D6?style=for-the-badge&logo=apple&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-## Weekly Insight of Languages I use
-
-```txt
-JavaScript   8 hrs 28 mins   ███████████▓░░░░░░░░░░░░░   46.90 %
-TypeScript   4 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   23.95 %
-HTML         2 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-Other        2 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-Markdown     26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-TSConfig     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-```
 
 <!---
 <h2>
