@@ -7,6 +7,8 @@
 
 Hi, I am **@**lightningthief77. I am interested in Web Development and are currently learning HTML and CSS. Grew up in 🇨🇦. I am also tech savvy. I would love to turn that GitHub contribution graph ⬇️ more green 🟩 in my spare time.
 
+![Supporter](https://github.com/lightningthief77/lightningthief77/assets/131876425/b7fba079-5d61-463b-82d7-8b76d88098f8)
+
 ## 🛠️ Skills
 
 ### Languages
