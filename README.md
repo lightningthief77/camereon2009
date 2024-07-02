@@ -1,4 +1,4 @@
-café_essentials$ login --username ***REDACTED*** --password ***REDACTED***
+lightningthief77$ login --username ***REDACTED*** --password ***REDACTED***
 
 ## 🚀 About Me
 
