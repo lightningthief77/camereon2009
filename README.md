@@ -1,9 +1,6 @@
-OsirisOS [Version 10.0.19043.1826]
-(c) Colt Arms & Technologies LLC. All rights reserved.
-C: \Local Drive\Sys Admin\lightningthief77>
+café_essentials$ login --username ***REDACTED*** --password ***REDACTED***
 
 ## 🚀 About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Learn%2C+Build%2C+Repeat)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40lightningthief77-239a3b.svg)](https://github.com/lightningthief77)
 
